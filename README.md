@@ -6,18 +6,24 @@ My current focus is turning small, useful problems into clean digital products: 
 
 ## 🚀 Featured project
 
-### [SonKarar](https://github.com/furkankocaturk/sonkarar)
-A smart decision-wheel app for everyday choices like **“Ne yesek?”** and **“Ne izlesek?”**.
+### [DealRadar](https://github.com/furkankocaturk/dealradar)
+A deal discovery and price alert dashboard that collects signals from **public Telegram discount channels**, **forum/RSS hot-deal feeds**, and **tracked product keywords**.
 
-**Why it matters:** small daily decisions waste time. SonKarar aims to make those choices faster, more fun, and easier to repeat with saved/synced lists.
+**Why it matters:** good discounts are scattered across Telegram, forums, coupons, and price-drop posts. DealRadar turns those signals into a cleaner dashboard with scoring, categories, and source health notes.
 
 **Focus areas:**
 
-- Decision wheel UX
-- Couple/family-friendly daily use cases
-- Google-synced lists
-- Clean product presentation
-- Practical SaaS/product thinking
+- Public Telegram channel parsing
+- Forum/RSS source collection
+- Turkish lira price extraction
+- Watchlist-based deal scoring
+- Static web dashboard
+- Automation-ready architecture
+
+## 🧪 Other projects
+
+### [SonKarar](https://github.com/furkankocaturk/sonkarar)
+A decision-wheel app idea for everyday choices like **“Ne yesek?”** and **“Ne izlesek?”**.
 
 ## 🧭 What I'm working on
 
@@ -30,10 +36,10 @@ A smart decision-wheel app for everyday choices like **“Ne yesek?”** and **�
 ## 🛠️ Tech & tools I care about
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
+![Telegram](https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram)
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-111827?style=for-the-badge&logo=openai)
 ![Automation](https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions)
 
@@ -54,4 +60,4 @@ I prefer projects that are:
 ## 🔗 Links
 
 - GitHub: [github.com/furkankocaturk](https://github.com/furkankocaturk)
-- Featured repo: [SonKarar](https://github.com/furkankocaturk/sonkarar)
+- Featured repo: [DealRadar](https://github.com/furkankocaturk/dealradar)
