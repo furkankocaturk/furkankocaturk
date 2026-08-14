@@ -1,5 +1,5 @@
 # Furkan Koçtürk 👋
-n> Last updated: 2026-08-13 20:39 UTC
+n> Last updated: 2026-08-14 09:57 UTC
 
 I build practical web apps, automation workflows, and AI-assisted product ideas.
 
