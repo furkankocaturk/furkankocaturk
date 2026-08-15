@@ -62,3 +62,5 @@ I prefer projects that are:
 
 - GitHub: [github.com/furkankocaturk](https://github.com/furkankocaturk)
 - Featured repo: [DealRadar](https://github.com/furkankocaturk/dealradar)
+
+<!-- activity:c77a6540 --> Last active: 2026-08-15 07:04 UTC
