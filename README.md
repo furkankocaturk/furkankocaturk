@@ -76,3 +76,7 @@ I prefer projects that are:
 <!-- CURRENT_FOCUS_START -->
 **🎯 Current focus:** Refining UI/UX on existing projects
 <!-- CURRENT_FOCUS_END -->
+
+<!-- LEARNING_LOG_START -->
+**📖 Learning log:** Today: explored lightweight logging strategies
+<!-- LEARNING_LOG_END -->
