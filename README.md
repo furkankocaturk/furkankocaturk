@@ -80,3 +80,7 @@ I prefer projects that are:
 <!-- LEARNING_LOG_START -->
 **📖 Learning log:** Today: explored lightweight logging strategies
 <!-- LEARNING_LOG_END -->
+
+<!-- MICRO_IDEA_START -->
+**💭 Idea: a habit tracker that writes to a plain text file**
+<!-- MICRO_IDEA_END -->
