@@ -68,3 +68,7 @@ I prefer projects that are:
 <!-- DAILY_THOUGHT_START -->
 > 💡 *Reading code is a skill — write code others can read.*
 <!-- DAILY_THOUGHT_END -->
+
+<!-- TECH_TIP_START -->
+**🛠 Tip of the day:** `PostgreSQL: `EXPLAIN ANALYZE` before optimizing any slow query.`
+<!-- TECH_TIP_END -->
