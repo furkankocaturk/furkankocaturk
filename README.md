@@ -84,3 +84,7 @@ I prefer projects that are:
 <!-- MICRO_IDEA_START -->
 **💭 Idea: a habit tracker that writes to a plain text file**
 <!-- MICRO_IDEA_END -->
+
+<!-- WEEKLY_SUMMARY_START -->
+**📅 Week 34 / 2026** — Shipping, learning, iterating.
+<!-- WEEKLY_SUMMARY_END -->
