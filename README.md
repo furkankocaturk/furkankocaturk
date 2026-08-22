@@ -72,3 +72,7 @@ I prefer projects that are:
 <!-- TECH_TIP_START -->
 **🛠 Tip of the day:** `PostgreSQL: `EXPLAIN ANALYZE` before optimizing any slow query.`
 <!-- TECH_TIP_END -->
+
+<!-- CURRENT_FOCUS_START -->
+**🎯 Current focus:** Refining UI/UX on existing projects
+<!-- CURRENT_FOCUS_END -->
