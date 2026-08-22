@@ -1,5 +1,5 @@
 # Furkan Koçtürk 👋
-n> Last updated: 2026-08-14 09:57 UTC
+n> Last updated: 2026-08-22 11:18 UTC
 
 I build practical web apps, automation workflows, and AI-assisted product ideas.
 
@@ -63,4 +63,4 @@ I prefer projects that are:
 - GitHub: [github.com/furkankocaturk](https://github.com/furkankocaturk)
 - Featured repo: [DealRadar](https://github.com/furkankocaturk/dealradar)
 
-<!-- activity:b7b04bfe --> Last active: 2026-08-22 09:23 UTC
+<!-- activity:a37483fa --> Last active: 2026-08-22 11:18 UTC
