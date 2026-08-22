@@ -64,3 +64,7 @@ I prefer projects that are:
 - Featured repo: [DealRadar](https://github.com/furkankocaturk/dealradar)
 
 <!-- activity:a37483fa --> Last active: 2026-08-22 11:18 UTC
+
+<!-- DAILY_THOUGHT_START -->
+> 💡 *Reading code is a skill — write code others can read.*
+<!-- DAILY_THOUGHT_END -->
