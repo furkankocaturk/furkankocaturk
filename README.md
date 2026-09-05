@@ -74,7 +74,7 @@ I prefer projects that are:
 <!-- TECH_TIP_END -->
 
 <!-- CURRENT_FOCUS_START -->
-**🎯 Current focus:** Refining UI/UX on existing projects
+**🎯 Current focus:** Improving documentation and project presentation
 <!-- CURRENT_FOCUS_END -->
 
 <!-- LEARNING_LOG_START -->
