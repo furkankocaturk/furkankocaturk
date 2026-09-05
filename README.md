@@ -86,5 +86,5 @@ I prefer projects that are:
 <!-- MICRO_IDEA_END -->
 
 <!-- WEEKLY_SUMMARY_START -->
-**📅 Week 34 / 2026** — Shipping, learning, iterating.
+**📅 Week 36 / 2026** — Shipping, learning, iterating.
 <!-- WEEKLY_SUMMARY_END -->
