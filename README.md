@@ -66,7 +66,7 @@ I prefer projects that are:
 <!-- activity:a1b10476 --> Last active: 2026-09-05 08:01 UTC
 
 <!-- DAILY_THOUGHT_START -->
-> 💡 *The best project is the one you actually finish.*
+> 💡 *Readable code is maintainable code.*
 <!-- DAILY_THOUGHT_END -->
 
 <!-- TECH_TIP_START -->
