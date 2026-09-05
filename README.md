@@ -82,7 +82,7 @@ I prefer projects that are:
 <!-- LEARNING_LOG_END -->
 
 <!-- MICRO_IDEA_START -->
-**💭 Idea: a CLI tool that summarizes git log into weekly reports**
+**💭 Idea: a simple uptime monitor that posts to Telegram**
 <!-- MICRO_IDEA_END -->
 
 <!-- WEEKLY_SUMMARY_START -->
