@@ -74,7 +74,7 @@ I prefer projects that are:
 <!-- TECH_TIP_END -->
 
 <!-- CURRENT_FOCUS_START -->
-**🎯 Current focus:** Experimenting with web scraping resilience
+**🎯 Current focus:** Exploring lightweight SaaS architectures
 <!-- CURRENT_FOCUS_END -->
 
 <!-- LEARNING_LOG_START -->
