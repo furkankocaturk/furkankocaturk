@@ -66,7 +66,7 @@ I prefer projects that are:
 <!-- activity:b8dfdbd9 --> Last active: 2026-09-05 07:57 UTC
 
 <!-- DAILY_THOUGHT_START -->
-> 💡 *Documentation is a love letter to your future self.*
+> 💡 *The best project is the one you actually finish.*
 <!-- DAILY_THOUGHT_END -->
 
 <!-- TECH_TIP_START -->
