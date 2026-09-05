@@ -78,7 +78,7 @@ I prefer projects that are:
 <!-- CURRENT_FOCUS_END -->
 
 <!-- LEARNING_LOG_START -->
-**📖 Learning log:** Today: explored lightweight logging strategies
+**📖 Learning log:** Today: practiced Docker multi-stage build optimizations
 <!-- LEARNING_LOG_END -->
 
 <!-- MICRO_IDEA_START -->
