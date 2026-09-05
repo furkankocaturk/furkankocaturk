@@ -78,7 +78,7 @@ I prefer projects that are:
 <!-- CURRENT_FOCUS_END -->
 
 <!-- LEARNING_LOG_START -->
-**📖 Learning log:** Today: studied CSS container queries for responsive design
+**📖 Learning log:** Today: reviewed OWASP top 10 for web application security
 <!-- LEARNING_LOG_END -->
 
 <!-- MICRO_IDEA_START -->
