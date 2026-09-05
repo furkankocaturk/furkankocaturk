@@ -70,7 +70,7 @@ I prefer projects that are:
 <!-- DAILY_THOUGHT_END -->
 
 <!-- TECH_TIP_START -->
-**🛠 Tip of the day:** `Bash: `set -euo pipefail` at the top of every script for safe defaults.`
+**🛠 Tip of the day:** ``curl -sS url | python3 -m json.tool` — pretty-print JSON from API.`
 <!-- TECH_TIP_END -->
 
 <!-- CURRENT_FOCUS_START -->
