@@ -82,7 +82,7 @@ I prefer projects that are:
 <!-- LEARNING_LOG_END -->
 
 <!-- MICRO_IDEA_START -->
-**💭 Idea: a habit tracker that writes to a plain text file**
+**💭 Idea: a CLI tool that summarizes git log into weekly reports**
 <!-- MICRO_IDEA_END -->
 
 <!-- WEEKLY_SUMMARY_START -->
