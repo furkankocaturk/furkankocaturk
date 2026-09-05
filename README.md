@@ -70,7 +70,7 @@ I prefer projects that are:
 <!-- DAILY_THOUGHT_END -->
 
 <!-- TECH_TIP_START -->
-**🛠 Tip of the day:** `PostgreSQL: `EXPLAIN ANALYZE` before optimizing any slow query.`
+**🛠 Tip of the day:** `Bash: `set -euo pipefail` at the top of every script for safe defaults.`
 <!-- TECH_TIP_END -->
 
 <!-- CURRENT_FOCUS_START -->
