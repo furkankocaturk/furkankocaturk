@@ -66,7 +66,7 @@ I prefer projects that are:
 <!-- activity:c467c712 --> Last active: 2026-09-05 07:52 UTC
 
 <!-- DAILY_THOUGHT_START -->
-> 💡 *Reading code is a skill — write code others can read.*
+> 💡 *Every commit is a time capsule for future you.*
 <!-- DAILY_THOUGHT_END -->
 
 <!-- TECH_TIP_START -->
