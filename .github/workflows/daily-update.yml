@@ -47,8 +47,8 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "furkankocaturk"
+          git config user.email "55717296+furkankocaturk@users.noreply.github.com"
           git add README.md
           git diff --staged --quiet || git commit -m "chore: activity update ${{ steps.content.outputs.timestamp }}"
           git push
