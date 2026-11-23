@@ -1,4 +1,4 @@
-# Furkan Koçtürk 👋
+﻿# Furkan Kocatürk 👋
 n> Last updated: 2026-09-05 08:01 UTC
 
 I build practical web apps, automation workflows, and AI-assisted product ideas.
@@ -88,3 +88,4 @@ I prefer projects that are:
 <!-- WEEKLY_SUMMARY_START -->
 **📅 Week 36 / 2026** — Shipping, learning, iterating.
 <!-- WEEKLY_SUMMARY_END -->
+
